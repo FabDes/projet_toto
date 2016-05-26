@@ -1,0 +1,7 @@
+{
+    "name": "fabrice/projet_toto",
+    "description": "Liste les etudiants de la formation",
+    "require": {
+        "whatsma/zodiacsign": "dev-master"
+    }
+}
